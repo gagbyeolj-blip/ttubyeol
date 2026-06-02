@@ -4,7 +4,19 @@
     height: 1px;
 }
 
-table, th, td {
+.table, th, td {
     border: 1px solid black; 
     border-collapse: collapse;
+}
+
+.ryuli {
+    color: rgb(109, 79, 218);
+}
+
+.cloudli {
+    color: rgb(148, 196, 250);
+}
+
+.background {
+    background-color: hwb(51 75% 1%);
 }
