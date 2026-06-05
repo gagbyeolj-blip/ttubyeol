@@ -27,5 +27,9 @@
 }
 
 .button:hover {
-    background-color: rgb(70, 204, 248);
+    background-color: rgb(179, 225, 252);
+}
+
+.button {
+    background-color: rgb(231, 229, 191);
 }
