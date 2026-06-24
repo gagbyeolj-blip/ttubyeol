@@ -2,7 +2,44 @@
     background-color: hwb(51 75% 1%);
 }
 
+html {
+    font-size: 10px; /*최상단 요소*/
+}
 
-.background {
-    background-color: hwb(51 75% 1%);
+ body{
+    font-family: "맑은 고딕", "돋움", sans-serif;
+    font-size: 16px; /*부모요소*/
+ }
+
+ h2{
+    font-size: 1em; /* 16px */
+    font-weight: 400;
+    color:skyblue;
+ }
+
+span {
+    font-size: 1rem; /*8px*/
+    font-style:italic;
+    color:#008000;
+}
+
+.gag {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgba(255, 0, 0, 0.5)
+}
+
+.number {
+    line-height: 2;
+    color:rgb(19, 104, 231);
+}
+
+.percent{
+    line-height: 100%;
+    color:rgb(19, 104, 231);
+}
+
+.pixel {
+    line-height: 24px;
+    color:rgb(19, 104, 231);
 }
