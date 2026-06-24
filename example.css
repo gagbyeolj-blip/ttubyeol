@@ -32,14 +32,20 @@ span {
 .number {
     line-height: 2;
     color:rgb(19, 104, 231);
+    text-align: left;
+    text-decoration: underline;
 }
 
 .percent{
     line-height: 100%;
     color:rgb(19, 104, 231);
+    text-align: center;
+    text-decoration: overline;
 }
 
 .pixel {
     line-height: 24px;
     color:rgb(19, 104, 231);
+    text-align: right;
+    text-decoration:line-through;
 }
