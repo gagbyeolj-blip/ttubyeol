@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(179, 225, 252);
+    font-size: 15px; /*부모 요소 15px*/
+    text-align: center; /*부모 요소 텍스트 가운데 정렬 */
+}
+
+span {
+    color:blue;
+}
