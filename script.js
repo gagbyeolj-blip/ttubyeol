@@ -1,3 +1,6 @@
-function alertmusic() {
-    alert("오늘의 곡은 닳 따러 갈래");
+// js misic 함수
+function alertmusic(music) {
+    alert(`오늘의 ${music}!`);
 }
+
+
