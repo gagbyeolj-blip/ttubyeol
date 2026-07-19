@@ -11,7 +11,6 @@ html {
     font-size: 16px; /*부모요소*/
     background-image: url(images/asiana_A321.jpg);
     background-size: cover; /* body image size */
-    /*background-position: ; */
     background-repeat: no-repeat; /*이미지 반복*/
 }
 
